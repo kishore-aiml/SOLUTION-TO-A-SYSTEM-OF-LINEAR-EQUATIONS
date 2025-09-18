@@ -21,9 +21,7 @@ b=np.array([-9,4,-1])
 print(np.linalg.solve(a,b))
 ```
 ## Output:
-```
-  Expected	             Got	
-[-4.  3. -2.]      [-4.  3. -2.]
-```
+<img width="373" height="152" alt="image" src="https://github.com/user-attachments/assets/a0f18646-dd11-4da6-b4f3-bcca69e64948" />
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program# SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS
